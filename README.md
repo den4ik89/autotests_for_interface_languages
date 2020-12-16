@@ -1,2 +1,3 @@
-# autotests_for_interface_languages
-Launching autotests for different interface languages
+# Stepik.org задание с рецензией
+
+## Задание: запуск автотестов для разных языков интерфейса
