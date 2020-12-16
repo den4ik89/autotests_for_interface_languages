@@ -1,0 +1,2 @@
+# autotests_for_interface_languages
+Launching autotests for different interface languages
